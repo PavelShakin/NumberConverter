@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumberConverter</string>
+
+    <string name="inputFieldPlaceholder">Enter romanian number</string>
+    <string name="inputFieldError">Invalid romanian number</string>
+    <string name="resultText">"Roman numeral %s is equivalent to Arabic numeral %d"</string>
+    <string name="convertButtonText">Convert</string>
+</resources>
